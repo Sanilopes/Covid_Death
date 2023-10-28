@@ -1,1 +1,1 @@
-# Covid_Death
+# SQL Projects
